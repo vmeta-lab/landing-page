@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<title>Vmeta - Nhà phát hành NFT đầu tiên tại Việt Nam</title>
+	<link rel="icon" type="image/x-icon" href="images/pic2avatarAsset2.png">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+	<link rel="stylesheet" href="source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+	<link rel="stylesheet" href="source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+	<link rel="stylesheet" href="source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&display=swap" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
+    <![endif]-->
+  </head>
+  <body class="home">
+    <div class="header">
+      <a href="#" class="logo">
+        <img src="images/logo.png" alt="logo">
+      </a>
+      <div class="menu">
+        <ul>
+          <li><a href="#phathanh">Phát hành</a></li>
+          <li><a href="#hotro">Hỗ trợ</a></li>
+          <li><a href="#cuocthi">Cuộc thi</a></li>
+          <li><a href="#vietnam">Việt nam</a></li>
+        </ul>
+        <div class="mob-nav-icon">
+          <a class="cmn-toggle-switch cmn-toggle-switch__htx">
+              <span>toggle menu</span>
+          </a>
+      </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="banner">
+        <img src="images/banner.png" alt="banner">
+        <h2>Chính thức bắt đầu vào ngày 05 tháng 06 năm 2022</h2>
+        <h4><a href="https://www.facebook.com/VMeta-100765812447970">Tham gia vào Vmeta</a></h4>
+        <div class="join">
+          <a href="https://www.facebook.com/VMeta-100765812447970">Join with us</a>
+          <div class="social">
+            <a href="https://www.facebook.com/VMeta-100765812447970" class="r_social"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/vmeta.biz/" class="r_social"><i class="fab fa-instagram"></i></a>
+            <a href="https://twitter.com/VMeta_Biz" class="r_social"><i class="fab fa-twitter"></i></a>
+            <a href="https://t.me/+A1jBqdfVOlJjODk1" class="r_social"><i class="fab fa-telegram-plane"></i></a>
+            <a href="https://discord.gg/r4pKb9Dp" class="r_social"><i class="fab fa-discord"></i></a>
+          </div>
+        </div>
+      </div>
+      <h2 class="tit_brand_sologant mt_100" id="phathanh">Nhà phát hành NFT đầu tiên tại Việt Nam</h2>
+      <div class="box_info">
+        <p>Lần đầu tiên có một nhà phát hành NFT của người Việt, nhằm phát triển cộng đồng NFT tại Việt Nam.</p>
+        <p>Tôn vinh và hiện thực hóa giá trị của người tạo ra nội dung.</p>
+        <p>Bảo vệ người hâm mộ, nhà đầu tư an tâm về bản quyền</p>
+      </div>
+      <h2 class="tit_brand_sologant mt_100" id="hotro">Hỗ trợ Creative Studio, <br> Artist NFT hóa sản phẩm và hơn thế nữa</h2>
+      <div class="box_info">
+        <p>Là cầu nối giữa người tạo ra nội dung và cộng đồng trong ngoài nước.</p>
+        <p>Tạo NFT một cách nhanh chóng, dễ dàng.</p>
+        <p>Là bước đi tiên phong khai thác tiềm năng khổng lồ của NFT, giúp ứng dụng NFT vào cuộc sống.</p>
+      </div>
+      <h2 class="tit_brand_sologant mt_100" id="cuocthi">Tổ chức cuộc thi sáng tạo NFT</h2>
+      <div class="box_info">
+        <p>Cuộc thi sáng tạo NFT về hình ảnh người phụ nữ Việt Nam.<br>
+          Văn hóa Việt Nam ( áo dài, áo bà ba, .. etc ) kết hợp vào design
+          theo hướng robotic và AI, Metaverse.</p><br>
+        <p>Thông qua một platform để minting và voting từ cộng đồng
+          Top mười người chiến thắng sẽ nhận được phần thưởng giá trị
+          lên đến 200.000.000 VND.</p>
+      </div>
+      <img src="images/pic1Asset40.png" alt="" class="images_box_info3">
+      <div class="clear"></div>
+      <h2 class="tit_brand_sologant mt_100" id="vietnam">Mang bản sắc, văn hóa Việt Nam đến với bạn bè quốc tế</h2>
+      <div class="box_info">
+        <p>4000 năm văn hiến nay trở thành điểm nhấn trong Cách mạng 4.0.</p>
+        <p>Blockchain nói chung và NFT nói riêng là cơ hội để Việt Nam thực sự sánh vai với cường quốc năm châu.</p>
+        <p>Tài năng của người Việt Nam phải được định giá theo tiêu chuẩn toàn cầu.</p>
+      </div>
+    </div>
+    <div class="aboutus mt_70">
+      <p class="text_title_about_left">Aboutus</p>
+      <p class="text_title_about_right">Aboutus</p>
+      <h2>Vmeta core team</h2>
+      <div class="team_member">
+        <div class="member">
+          <img src="images/pic1avatarAsset41.png" alt="">
+          <h4>Nguyễn Lê Vương</h4>
+          <p class="author">CEO.</p>
+        </div>
+        <div class="member">
+          <img src="images/pic2avatarAsset43.png" alt="">
+          <h4>Trương Thành Đạt</h4>
+          <p class="author">CBO.</p>
+        </div>
+        <div class="member">
+          <img src="images/pic2avatarAsset45.png" alt="">
+          <h4>Nguyễn Hà Phan</h4>
+          <p class="author">3D Artist</p>
+        </div>
+        <!--
+        <div class="member">
+          <img src="images/pic2avatarAsset46.png" alt="">
+          <h4>Nga</h4>
+          <p class="author">Social Media</p>
+        </div>
+        -->
+      </div>
+      <div class="advisor">
+        <h4>Investor & Advisor</h4>
+        <div class="member">
+          <img src="images/pic2avatarAsset47.png" alt="">
+          <h4>Shark Liên</h4>
+          <p class="author">Advisor</p>
+        </div>
+      </div>
+      <div class="partner">
+        <h4>Partners & Communities</h4>
+
+      </div>
+    </div>
+  <div class="footer">
+    <div class="container">
+      <a href="#" class="flollow">Flollow us</a>
+    </div>
+    <div class="social_ft">
+        <a href="https://www.facebook.com/VMeta-100765812447970" class="r_social"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://www.instagram.com/vmeta.biz/" class="r_social"><i class="fab fa-instagram"></i></a>
+        <a href="https://twitter.com/VMeta_Biz" class="r_social"><i class="fab fa-twitter"></i></a>
+        <a href="https://t.me/+A1jBqdfVOlJjODk1" class="r_social"><i class="fab fa-telegram-plane"></i></a>
+        <a href="https://discord.gg/r4pKb9Dp" class="r_social"><i class="fab fa-discord"></i></a>
+    </div>
+    <p class="coppyright">Copyright © 2022</p>
+  </div>
+    
+<!-- jQuery -->
+    <script src="js/jquery-1.10.1.min.js" type="text/javascript"></script>
+	<script src="js/jquery.bxslider.min.js" type="text/javascript"></script>
+	<script src="js/default.js" type="text/javascript"></script>
+	<!-- Add jQuery library -->
+
+<!-- Add mousewheel plugin (this is optional) -->
+
+<!-- Add fancyBox -->
+
+<!-- Optionally add helpers - button, thumbnail and/or media -->
+<script src="js/wow.min.js"></script>
+<script src="js/loading-page.js"></script>
+<script src="js/function.js"></script>
+  
+	<script type="text/javascript">
+	
+	$(".cmn-toggle-switch__htx").click(function() {
+        $(".menu > ul").toggleClass("active");
+    });
+
+	</script>
+	<script type="text/javascript">
+	//$(document).bind('contextmenu', function(e){return false;});
+</script>
+	<script>
+              new WOW().init();
+              </script>
+    <script>
+    	$(window).load(function() {
+		// Animate loader off screen
+		$("#pageLoad").fadeOut("slow");
+	});
+    </script>
+	  
+</body></html>

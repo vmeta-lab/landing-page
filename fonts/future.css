@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'SFU Futura';
+    src: url('SFUFuturaBook.woff2') format('woff2'),
+        url('SFUFuturaBook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SFU Futura';
+    src: url('SFUFuturaHeavyOblique.woff2') format('woff2'),
+        url('SFUFuturaHeavyOblique.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'SFU Futura';
+    src: url('SFUFuturaBold.woff2') format('woff2'),
+        url('SFUFuturaBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
